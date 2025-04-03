@@ -4,8 +4,25 @@ This repository contains experimental data for the ACM SIGGRAPH VRCAI '24 full p
 # Abstract 
 Scientific visualization and tomographic imaging techniques have created unprecedented possibilities for non-destructive analyses of digital specimens in morphology. However, practitioners encounter difficulties retaining critical information from complex tomographic volumes in their workflows. In light of this challenge, we investigated the effectiveness of visuohaptic integration in enhancing memory retention of morphological data. In a within-subjects user study (N=18), participants completed a delayed match-to-sample task, where we compared error rates and response times across visual and visuohaptic sensory modality conditions. Our results indicate that visuohaptic encoding improves the retention of tomographic images, producing significantly reduced error rates and faster response times than its unimodal visual counterpart. Our findings suggest that integrating haptics into scientific visualization interfaces may support professionals in fields such as morphology, where accurate retention of complex spatial data is essential for efficient analysis and decision-making within virtual environments.
 
-## Full Paper
-The paper will be available in [ACM Digital Library](https://doi.org/10.1145/3703619.3706055).
+## Citing the Paper
+The paper is available in [ACM Digital Library](https://doi.org/10.1145/3703619.3706055).
+```
+@inproceedings{
+  10.1145/3703619.3706055,
+  author = {Siqueira Rodrigues, Lucas and Nyakatura, John and Zachow, Stefan and Israel, Johann Habakuk and Kosch, Thomas},
+  title = {Evaluating Visuohaptic Integration on Memory Retention of Morphological Tomographic Images},
+  year = {2025},
+  isbn = {9798400713484},
+  publisher = {Association for Computing Machinery},
+  address = {New York, NY, USA},
+  url = {https://doi.org/10.1145/3703619.3706055},
+  doi = {10.1145/3703619.3706055},
+  articleno = {18},
+  numpages = {10},
+  keywords = {Data Analysis, Data Exploration, Feedback, Haptics, Human-Computer Interaction, Mental Representations, Visuohaptic Integration, Working Memory},
+  series = {VRCAI '24}
+}
+```
 
 ## Licenses and Citation
 
